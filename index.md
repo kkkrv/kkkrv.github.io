@@ -14,4 +14,8 @@
 4. **FUNC_007**
    - [Задание + Решение](https://kodaktor.ru/func_7901d)
    - [Дерево вызовов (not ready)]()
+5. **FUNC_002**
+   - [Задание + Решение](https://kodaktor.ru/func_842ea)
+6. **FUNC_003**
+   - [Задание + Решение](https://kodaktor.ru/func_98b12)
 
