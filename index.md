@@ -9,3 +9,9 @@
 2. **XSL intro**
    - [Задание](https://kodaktor.ru/g/xsl_intro)
    - [Решение](https://github.com/kkkrv/xsl_intro/)
+3. **FUNC_010**
+   - [Задание + Решение](https://kodaktor.ru/func_42b43)
+4. **FUNC_007**
+   - [Задание + Решение](https://kodaktor.ru/func_7901d)
+   - [Дерево вызовов (not ready)]()
+
