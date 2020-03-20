@@ -22,4 +22,9 @@
    - [Задание + Решение](https://kodaktor.ru/func_04398)  
 8. **FUNC_004**
    - [Задание + Решение](https://kodaktor.ru/func_3bd8d)
+9. **FUNC_006**
+   - [Задание + Решение](https://kodaktor.ru/func_a4159)
+  
+  
+  
 
