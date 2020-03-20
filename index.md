@@ -17,6 +17,6 @@
 5. **FUNC_002**
    - [Задание + Решение](https://kodaktor.ru/func_842ea)
 6. **FUNC_003**
-   - [Задание + Решение](https://kodaktor.ru/func_c6eb3)
+   - [Задание + Решение](https://kodaktor.ru/func_7fc5c)
 7. **FUNC_005**
    - [Задание + Решение](https://kodaktor.ru/func_04398)  
