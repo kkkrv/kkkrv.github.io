@@ -20,3 +20,6 @@
    - [Задание + Решение](https://kodaktor.ru/func_7fc5c)
 7. **FUNC_005**
    - [Задание + Решение](https://kodaktor.ru/func_04398)  
+8. **FUNC_004**
+   - [Задание + Решение](https://kodaktor.ru/func_3bd8d)
+
