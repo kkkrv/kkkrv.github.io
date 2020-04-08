@@ -1,0 +1,18 @@
+<input id="inp"><br>
+<button id="bt">▶︎</button>
+
+<script>
+  {
+       (bt => {
+               bt.addEventListener(
+                  'click',
+                  async () => {
+                    const inp = document.querySelector('#inp').value;
+                     
+                    let ans = document.querySelector('#inp');  
+                    ans.value = crypto.subtle.digest('SHA-1', inp);
+                  }
+               );
+       })(document.querySelector('#bt'));
+}
+</script>
