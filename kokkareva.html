@@ -1,7 +1,7 @@
 <input id="inp"><br>
 <button id="bt">▶︎</button>
 
-<script>
+<script  type="text/javascript>
   {
        (bt => {
                bt.addEventListener(
@@ -10,7 +10,13 @@
                     const inp = document.querySelector('#inp').value;
                      
                     let ans = document.querySelector('#inp');  
-                    ans.value = crypto.subtle.digest('SHA-1', inp);
+                    var buffer = new TextEncoder("utf-8").encode(str);
+                    crypto.subtle.digest("SHA-1", buffer).then(
+                      function (hash) {
+                        document.getElementById("inp").value = hex(hash)
+                      }
+                    );
+                    //ans.value = crypto.subtle.digest('SHA-1', inp);
                   }
                );
        })(document.querySelector('#bt'));
