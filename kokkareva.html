@@ -1,9 +1,12 @@
 <input id="inp"><br>
-<button id="bt">v3</button>
+<button id="bt">v4</button>
 
 <script  type="text/javascript>
   {
        (bt => {
+               bt.addEventListener(
+                  'click',
+                  async () => {
                function hex(buffer) {
                 var hexCodes = [];
                 var view = new DataView(buffer);
@@ -17,9 +20,6 @@
                 var paddedValue = (padding + stringValue).slice(-padding.length)
                 hexCodes.push(paddedValue);
               }
-               bt.addEventListener(
-                  'click',
-                  async () => {
                     const inp = document.querySelector('#inp').value;
                      
                     let ans = document.querySelector('#inp');  
