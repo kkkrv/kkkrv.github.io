@@ -28,7 +28,7 @@
    - [Задание + Решение](https://kodaktor.ru/task_func_6ed2c)
 11. **FUNC_008**
    - [Задание](https://kodaktor.ru/func_008)
-   - [Решение](https://kodaktor.ru/click_2d5ff)
+   - [Решение](will be updated)
 12. **FUNC_009**
    - [Задание + Решение](https://kodaktor.ru/func_41410)
 13. **ASYNC TASK**
