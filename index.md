@@ -34,6 +34,12 @@
 13. **ASYNC TASK**
    - [Задание](https://kodaktor.ru/async_tasks)
    - [Решение](https://kodaktor.ru/click_0d962)
+14. **BABL_002**
+   - [Задание + Решение](https://kodaktor.ru/bind02032018_c818a)
+   
+   
+   
+   
   
   
   
