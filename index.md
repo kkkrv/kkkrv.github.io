@@ -28,7 +28,8 @@
    - [Задание + Решение](https://kodaktor.ru/task_func_6ed2c)
 11. **FUNC_008**
    - [Задание](https://kodaktor.ru/func_008)
-   - [Решение](will be updated)
+   - [Решение для полей из задания](https://kodaktor.ru/func_5ca33)
+   - [Решение для произвольного числа полей](https://kodaktor.ru/click_0f194)
 12. **FUNC_009**
    - [Задание + Решение](https://kodaktor.ru/func_41410)
 13. **ASYNC TASK**
