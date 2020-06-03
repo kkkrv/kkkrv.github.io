@@ -34,7 +34,7 @@
    - [Задание + Решение](https://kodaktor.ru/func_41410)
 13. **ASYNC TASK**
    - [Задание](https://kodaktor.ru/async_tasks)
-   - [Решение](https://kodaktor.ru/click_0d962)
+   - [Решение](https://kodaktor.ru/click_c3e96)
 14. **BABL_002**
    - [Задание + Решение](https://kodaktor.ru/bind02032018_c818a)
 15. **EVNT_001**
@@ -43,8 +43,15 @@
 16. **FRMW_001**
    - [Задание](https://kodaktor.ru/frmw_001)
    - [Решение](https://kodaktor.ru/react_state_d8c6e)
-   
-   
+17. **FRMW_002**
+   - [Задание](https://kodaktor.ru/frmw_002)
+   - [Решение](https://kodaktor.ru/vue_starter_233c3)
+18. **FRMW_003**
+   - [Задание](https://kodaktor.ru/frmw_003)
+   - [Решение](https://kodaktor.ru/vue_props_18026)
+19. **FRMW_004**
+   - [Задание](https://kodaktor.ru/frmw_004)
+   - [Решение](https://kodaktor.ru/vue_starter_88838)   
    
    
   
