@@ -48,13 +48,13 @@
    - [Решение](https://kodaktor.ru/vue_starter_233c3)
 18. **FRMW_003**
    - [Задание](https://kodaktor.ru/frmw_003)
-   - [Решение](https://kodaktor.ru/vue_props_18026)
+   - [Решение](https://kodaktor.ru/vue_starter_85911)
 19. **FRMW_004**
    - [Задание](https://kodaktor.ru/frmw_004)
    - [Решение (kodaktor)](https://kodaktor.ru/vue_starter_88838)   
 20. **FRMW_005**
    - [Задание](https://kodaktor.ru/frmw_005)
-   - [Решение (kodaktor)](https://kodaktor.ru/vue_starter_094d6)   
+   - [Решение](https://kodaktor.ru/vue_starter_842e5)   
    
    
   
