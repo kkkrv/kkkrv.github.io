@@ -54,7 +54,7 @@
    - [Решение (kodaktor)](https://kodaktor.ru/vue_starter_88838)   
 20. **FRMW_005**
    - [Задание](https://kodaktor.ru/frmw_005)
-   - [Решение](https://kodaktor.ru/vue_starter_842e5)   
+   - [Решение](https://kodaktor.ru/vue_starter_7b772)   
    
    
   
