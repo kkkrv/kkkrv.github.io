@@ -37,7 +37,7 @@
    - [Решение](https://kodaktor.ru/click_c3e96)
 14. **BABL_002**
    - [Задание + Решение](https://kodaktor.ru/bind02032018_c818a)
-15. **EVNT_001**
+15. **EVNT_002**
    - [Задание](https://kodaktor.ru/g/evnt_002)
    - [Решение](https://kodaktor.ru/custom_b19ee)
 16. **FRMW_001**
